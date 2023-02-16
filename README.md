@@ -1,2 +1,2 @@
 # pacman_game
-PacMan Game for School cause i need an 1
+PacMan Game made with Java
